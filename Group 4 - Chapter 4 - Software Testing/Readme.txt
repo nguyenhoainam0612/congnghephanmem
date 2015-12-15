@@ -1,1 +1,1 @@
-This is Group 4.
+This is Group 4. Chapter 4 is about Software Testing.
