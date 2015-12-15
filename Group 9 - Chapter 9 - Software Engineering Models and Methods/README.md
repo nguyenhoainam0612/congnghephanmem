@@ -5,7 +5,8 @@ Group 9 :
 - Nguyen Van Hong (hongnv55)
 
 Main content:
-- 1. Modeling.
-- 2. Types of models.
-- 3. Analysis of models.
-- 4. Software Engineering Methods.
+
+1. Modeling (Nguyen Van Hong).
+2. Types of models (Nguyen Tuan Anh).
+3. Analysis of models (Nguyen Tuan Anh).
+4. Software Engineering Methods (Nguyen Trong Hieu).
