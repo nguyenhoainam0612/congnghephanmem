@@ -33,5 +33,6 @@ Interaction Analysis
 ```
 Heuristic Methods
 Formal Methods
-Prototyping Metho
+Prototyping Method
+Agile Methods 
 ```
