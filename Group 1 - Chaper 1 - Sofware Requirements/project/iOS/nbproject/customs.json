@@ -1,0 +1,8 @@
+{
+    "elements": {
+        "ion-nav-view": {},
+        "ion-footer-bar": {},
+        "ion-content": {}
+    },
+    "attributes": {}
+}
