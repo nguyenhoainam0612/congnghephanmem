@@ -5,10 +5,10 @@ Có thể dùng thêm một native app, và ionic gọi đến native app này �
 
 # Members
 * Group 1:
-** Nguyen Van Tuan
-** Nguyen Thanh Tung
-** Hoang Cong Minh
+* * Nguyen Van Tuan
+* * Nguyen Thanh Tung
+* * Hoang Cong Minh
 
-* Group 2:
-** Member 1
-** Member 2
+* Group 6:
+* * Nguyen Van Hai (gadapxichlo)
+* * Nguyễn Thanh Luan (luankies90)
